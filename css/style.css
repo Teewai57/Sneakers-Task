@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 body{
     background-color: whitesmoke;
 }
@@ -15,18 +12,13 @@ a{
     font-size: 20px;
 }
 
+
 .boldtext{
     font-size: 30px;
     color: black;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     letter-spacing: -1px;
-}
-.more{
-    /* margin-left: 40px; */
-}
-.icon{
-    /* margin-left: 420px; */
 }
 .more_image{
     /* margin-left: 20px; */
@@ -35,21 +27,9 @@ a{
      /* position: relative;
      top: 13px; */
 }
-hr{
-    /* margin-top: 30px; */
-}
 .main_image{
-    /* margin-left: 150px;
-    margin-top: 100px; */
     height: 470px;
     border-radius: 15px;
-}
-.images{
-    /* display: flex; */
-    /* margin-top: 20px; */
-    /* height: 150px; */
-    /* width: 100px !important; */
-    /* margin-left: 120px; */
 }
 .others{
     /* margin-left: 27px; */
@@ -57,11 +37,7 @@ hr{
     height: 100px;
     border-radius: 15px;
 }
-.write_up{
-    /* margin-left: 56%; */
-    position: relative;
-    /* bottom: 530px; */
-}
+
 .orangewrite_up{
     margin-bottom: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
