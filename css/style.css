@@ -143,3 +143,11 @@ span{
         font-size: 20px;
     }
 }
+@media (max-width:425px) {
+    .first{
+        order: 2;
+    }
+    .second{
+        order:1;
+    }
+}
